@@ -7,6 +7,8 @@ To use
 ===========
 In iOS Simulator, you should set your location to a valid location. Fields will show as (Null) otherwise. It was too time consuming to account for fields being null since if you are in a valid US or International City, your current location would instantly access your weather information
 
+You can press and drag, change the region, or location and the weather will be updated based on the center coordinate.
+
 
 Included Webservices
 ===========
